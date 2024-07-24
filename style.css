@@ -1,0 +1,123 @@
+.cabe{
+ background-color: black ;
+}
+
+header{
+ display: flex;
+
+}
+  
+#img1{
+ width: 150px;
+ border-radius: 10%;
+}
+.corpo{
+  background-color: rgb(0, 0, 0);
+}
+
+.pesquisa2{
+ text-align: center;
+
+}
+.titulo{ 
+
+ color: rgb(255, 255, 255);
+ margin-left: 110px;
+ margin-top: 180px;
+ font-size: 60px;
+
+}
+.texto2{
+ color: white;
+ padding-right: 20%;
+}
+
+p{
+ margin-left: 100px;
+}
+
+button:hover{
+  transform: scale(1.1);
+
+}
+
+.buttons{
+margin-left: 900px;
+margin-top: 30px;
+}
+
+
+.button0{
+width: 150px;
+height: 50px;
+font-size: 12px;
+color: rgb(255, 255, 255);
+background-color: black;
+border: none;
+transition: transform 200ms ease-in-out ;
+cursor: pointer;
+font-family: inherit;
+margin-left: 80px;
+
+}
+
+.button1{
+ margin-left: 90px;
+ height: 50px;
+ width: 130px;
+ font-size: 12px;
+ color: rgb(255, 255, 255);
+background-color: black;
+border: none;
+transition: transform 200ms ease-in-out ;
+cursor: pointer;
+font-family: inherit;
+}
+
+
+.button2{
+  margin-left: 80px;
+  height: 50px;
+  width: 100px;
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  border: none;
+  transition: transform 200ms ease-in-out ;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+
+
+#tudo{
+  display: flex;
+}
+.imagemcorpo{
+margin-right: 250px;
+width: 500px;
+margin-top: 15px;
+
+
+}
+.login{
+  
+background-color: white;
+margin-left: 115px;
+border-radius: 5px;
+font-size: 25px;
+text-decoration: none;
+color: black;
+padding-left: 15px;
+padding-right: 15px;
+}
+a  {
+  text-decoration: none;
+  color: #fff;
+}
+
+span{
+  font-size: 40px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+
